@@ -8,9 +8,15 @@
         
 }
 
+div.call{
+    float: left;
+    background-color: white;
+    width: 20%;
+}
+
 div.section{
     float: left;
-    margin-left: 260px;
+    margin-left: 10px;
     width: 40%;
     height: auto;
     font-size:small;
@@ -37,7 +43,7 @@ div.cv{
 }
 
 div.image{
-    width: 60%;
+    width: 63%;
     background-color: white;
     padding: 5px;
     margin-top: 5px;
