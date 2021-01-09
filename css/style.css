@@ -51,10 +51,21 @@ div.header{
   
 
 }
+div.sm{
+    background-color: beige;
+    width: 100%;
+    padding: 5px;
+    margin: 0 auto;
+}
 
 
 a:link{
-    color: white;
+    color: blue;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: whitesmoke;
+    
 }
 a:hover{
     color: orange;
@@ -73,7 +84,7 @@ h3{
 }
 h5{
     text-align: right;
-    color: whitesmoke;
+    color: blue;
     font-family:Verdana ;
 }
 h6{
@@ -85,6 +96,7 @@ h6{
 h4{
     color: red;
     font-family: cursive;
+  
 }
 
 body{
