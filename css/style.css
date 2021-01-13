@@ -14,6 +14,22 @@ div.call{
     width: 20%;
 }
 
+div.feed{
+    float: left;
+    background-color: white;
+    width: 17%;
+    
+}
+div.proj{
+    float: left;
+    background-color: white;
+    width: 17%;
+    border: 1px;
+    margin-top: 2px;
+    
+    
+}
+
 div.section{
     float: left;
     margin-left: 10px;
@@ -37,9 +53,8 @@ div.cv{
     font-family: Verdana;
     background-color: white;
     margin-left: 20px;
-    
-    
-    
+   
+  
 }
 
 div.image{
@@ -84,8 +99,15 @@ a:hover{
     color: orange;
 }
 p{
-    color: darkslategrey;
+    color: black;
     padding: 5px;
+    font-family: Verdana;
+    font-size: small;
+}
+h2{
+    text-align: center;
+    text-shadow: purple;
+    font-family: Verdana
 }
 
 h1{
