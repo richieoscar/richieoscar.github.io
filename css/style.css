@@ -11,21 +11,23 @@
 div.call{
     float: left;
     background-color: white;
-    width: 20%;
+    width: 260px;
 }
 
 div.feed{
     float: left;
     background-color: white;
-    width: 17%;
+    width: 260px;
+    margin-left: 10px;
     
 }
 div.proj{
     float: left;
     background-color: white;
-    width: 17%;
+    width: 250px;
     border: 1px;
     margin-top: 2px;
+    margin-left: 10px;
     
     
 }
@@ -33,7 +35,7 @@ div.proj{
 div.section{
     float: left;
     margin-left: 10px;
-    width: 40%;
+    width: 500px;
     height: auto;
     font-size:small;
     background-color:white;
@@ -46,7 +48,7 @@ div.section{
 
 div.cv{
     color: darkslategrey;
-    width: 20%;
+    width: 250px;
     height: auto;
     float: left;
     
@@ -69,12 +71,12 @@ div.image{
 
 
 div.header{
+    width: 100%;
+    height: 15%;
     background-color:black;
     color: white;
     text-align: left;
-    padding: 5px;
-    text-decoration: solid;
-  
+    margin-bottom: 3px;
 
 }
 div.sm{
@@ -105,22 +107,24 @@ p{
     font-size: small;
 }
 h2{
+    background-color: rgb(27, 24, 24);
     text-align: center;
-    color: purple;
+    color: whitesmoke;
     font-family: Verdana
+    
 }
 
 h1{
-    font-family: Verdana;
+    font-family: cursive;
     color:whitesmoke;
 }
 h3{
-    color: purple;
+    color: #a13b4c;
     text-align: left;
     padding-left: 5px;
 }
 h5{
-    text-align: right;
+    
     color: blue;
     font-family:Verdana ;
 }
